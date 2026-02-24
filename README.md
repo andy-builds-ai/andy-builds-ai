@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Andy 👋
 
-<!--
-**andy-builds-ai/andy-builds-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Career changer with 20 years in road construction and logistics — now building my future in AI Engineering.
 
-Here are some ideas to get you started:
+## What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 [Power-Agent](https://github.com/andy-builds-ai/power-agent) – Windows system monitoring with n8n workflow integration
+
+🤖 [RAG Learning Chatbot](https://github.com/andy-builds-ai/rag-learning-chatbot) – Local AI chatbot using Ollama, LangChain & FAISS
+
+🔗 Bitcoin Guardian – Multi-agent system for Bitcoin node monitoring (coming soon)
+
+## Tech I Use
+
+Python · LangChain · FAISS · Ollama · RAG · Prompt Engineering · LLMs · n8n · Git · Linux · Raspberry Pi
+
+## My Approach
+
+I learn by building. Every project here solves a real problem and teaches me something new on my path to becoming an AI Engineer.
+
+📫 [LinkedIn](https://www.linkedin.com/in/andreas-protocsil-775018398/)

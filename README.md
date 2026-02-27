@@ -8,7 +8,7 @@ Career changer with 20 years in road construction and logistics — now building
 
 🤖 [RAG Learning Chatbot](https://github.com/andy-builds-ai/rag-learning-chatbot) – Local AI chatbot using Ollama, LangChain & FAISS
 
-🔗 Bitcoin Guardian – Multi-agent system for Bitcoin node monitoring (coming soon)
+🔧 [Bitcoin Guardian](https://github.com/andy-builds-ai/bitcoin-guardian) – Health check monitor for Bitcoin full nodes via RPC API
 
 ## Tech I Use
 

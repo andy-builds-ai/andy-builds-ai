@@ -12,6 +12,8 @@ Career changer with 20 years in road construction and logistics — now building
 
 ⛏️ [Nerdaxe MCP Server](https://github.com/andy-builds-ai/nerdaxe-mcp) – Read-only MCP server monitoring a Bitcoin solo miner over its REST API
 
+⛓️ [Bitcoin Node MCP Server](https://github.com/andy-builds-ai/bitcoin-node-mcp) – Read-only MCP server monitoring a Bitcoin Core full node over JSON-RPC
+
 📂 [Claude Code Skills](https://github.com/andy-builds-ai/claude-code-skills) – A small collection of Claude Code skills for Python development
 
 ## Tech I Use

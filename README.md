@@ -16,7 +16,7 @@ Career changer with 20 years in road construction and logistics — now building
 
 ## Tech I Use
 
-Python · LangChain · FAISS · Ollama · RAG · Prompt Engineering · LLMs · n8n · Git · Linux · Raspberry Pi
+Python · Claude Code · MCP · LangChain · FAISS · Ollama · RAG · Prompt Engineering · LLMs · n8n · Git · Linux · Raspberry Pi
 
 ## My Approach
 

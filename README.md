@@ -14,6 +14,8 @@ Career changer with 20 years in road construction and logistics — now building
 
 ⛓️ [Bitcoin Node MCP Server](https://github.com/andy-builds-ai/bitcoin-node-mcp) – Read-only MCP server monitoring a Bitcoin Core full node over JSON-RPC
 
+📬 [Briefkasten MCP Server](https://github.com/andy-builds-ai/briefkasten-mcp) – File-based MCP server for passing notes between Claude rooms on one machine
+
 📂 [Claude Code Skills](https://github.com/andy-builds-ai/claude-code-skills) – A small collection of Claude Code skills for Python development
 
 ## Tech I Use

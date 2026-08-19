@@ -1,29 +1,27 @@
-# Hi, I'm Andy 👋
+# Hi, I'm Andreas
 
-Career changer with 20 years in road construction and logistics — now building my future in AI Engineering.
+I build agent infrastructure: MCP servers, local-first automation, and small monitoring tools that talk to real systems — a Bitcoin node, a solo miner, a Windows box.
 
-## What I'm Working On
+20 years in road construction and logistics before this. I still work the way that background trained me to: check the real state before you trust it, keep the blast radius small, don't ship what you haven't tested against the actual thing.
 
-🔧 [Power-Agent](https://github.com/andy-builds-ai/power-agent) – Windows system monitoring with n8n workflow integration
+## What's here
 
-🤖 [RAG Learning Chatbot](https://github.com/andy-builds-ai/rag-learning-chatbot) – Local AI chatbot using Ollama, LangChain & FAISS
+- **[bitcoin-guardian](https://github.com/andy-builds-ai/bitcoin-guardian)** — health-check monitor for a Bitcoin full node via RPC
+- **[bitcoin-node-mcp](https://github.com/andy-builds-ai/bitcoin-node-mcp)** — read-only MCP server exposing a Bitcoin Core node over its JSON-RPC interface
+- **[nerdaxe-mcp](https://github.com/andy-builds-ai/nerdaxe-mcp)** — read-only MCP server monitoring a solo miner over its local REST API
+- **[rag-learning-chatbot](https://github.com/andy-builds-ai/rag-learning-chatbot)** — local RAG pipeline (Ollama, LangChain, FAISS) for AI engineering study
+- **[power-agent](https://github.com/andy-builds-ai/power-agent)** — Windows system monitoring agent with n8n workflow integration
+- **[briefkasten-mcp](https://github.com/andy-builds-ai/briefkasten-mcp)** — file-based MCP server for passing notes between agent sessions on one machine, over stdio
+- **[claude-code-skills](https://github.com/andy-builds-ai/claude-code-skills)** — Claude Code skills for Python development
 
-🔧 [Bitcoin Guardian](https://github.com/andy-builds-ai/bitcoin-guardian) – Health check monitor for Bitcoin full nodes via RPC API
+I also run a private MCP-backed agent that manages my own notes and project state day to day — not public, but it's where most of these patterns get tested first.
 
-⛏️ [Nerdaxe MCP Server](https://github.com/andy-builds-ai/nerdaxe-mcp) – Read-only MCP server monitoring a Bitcoin solo miner over its REST API
+## Stack
 
-⛓️ [Bitcoin Node MCP Server](https://github.com/andy-builds-ai/bitcoin-node-mcp) – Read-only MCP server monitoring a Bitcoin Core full node over JSON-RPC
+Python · MCP · Claude Code · LangChain · FAISS · Ollama · RAG · n8n · Git · Linux · Raspberry Pi
 
-📬 [Briefkasten MCP Server](https://github.com/andy-builds-ai/briefkasten-mcp) – File-based MCP server for passing notes between Claude rooms on one machine
+## How I work
 
-📂 [Claude Code Skills](https://github.com/andy-builds-ai/claude-code-skills) – A small collection of Claude Code skills for Python development
-
-## Tech I Use
-
-Python · Claude Code · MCP · LangChain · FAISS · Ollama · RAG · Prompt Engineering · LLMs · n8n · Git · Linux · Raspberry Pi
-
-## My Approach
-
-I learn by building. Every project here solves a real problem and teaches me something new on my path to becoming an AI Engineer.
+Every repo here is a real problem I had, solved with a tool I built myself and can explain end to end. I read the spec, build against the live protocol, then go back to the book to fill in what the build skipped.
 
 📫 [LinkedIn](https://www.linkedin.com/in/andreas-protocsil-775018398/)

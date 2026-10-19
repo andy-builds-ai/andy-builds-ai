@@ -4,7 +4,7 @@ Right now: **[svar](https://github.com/andy-builds-ai/svar)** — a knowledge as
 
 I build agent infrastructure: MCP servers, local-first automation, and small monitoring tools that talk to real systems — a Bitcoin node, a solo miner, a Windows box.
 
-20 years in road construction and logistics before this. I still work the way that background trained me to: check the real state before you trust it, keep the blast radius small, don't ship what you haven't tested against the actual thing.
+18 years in road construction and logistics before this. I still work the way that background trained me to: check the real state before you trust it, keep the blast radius small, don't ship what you haven't tested against the actual thing.
 
 ## What's here
 
